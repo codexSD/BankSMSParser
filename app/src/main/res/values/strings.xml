@@ -1,0 +1,44 @@
+<resources>
+<!--    <string name="app_name" translatable="false">Control Panel</string>-->
+    <string name="app_name" translatable="false">Bank Cards Manager</string>
+    <string name="total_deposits">Total Deposits</string>
+    <string name="value">Value</string>
+    <string name="filter">Filter</string>
+    <string name="reset">Reset</string>
+    <string name="search">Search</string>
+    <string name="from">From</string>
+    <string name="amount">Amount</string>
+    <string name="card">Card</string>
+    <string name="account">Account</string>
+    <string name="currency">Currency</string>
+    <string name="view_message">View Message</string>
+    <string name="delete">Delete</string>
+    <string name="message">Message</string>
+    <string name="date">Date</string>
+    <string name="template_count">Template Count</string>
+    <string name="SmsSender">Sms Sender</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="add_field">Add Field</string>
+
+    <string-array name="TemplateFieldTypes">
+        <item>Fixed Text</item>
+        <item>Amount</item>
+        <item>Currency</item>
+        <item>Card Number</item>
+        <item>Account Number</item>
+        <item>From</item>
+        <item>Date</item>
+        <item>Balance</item>
+        <item>Additional info</item>
+    </string-array>
+
+    <string name="pick_sms">Select Sms Message</string>
+    <string name="import_sms">Import SMS</string>
+    <string name="import_sms_info">Get data from SMS message</string>
+    <string name="new_a">New</string>
+    <string name="import_a">Import</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="total_deposits">إجمالي السحب</string>
+    <string name="value">القيمة</string>
+    <string name="filter">تصفية</string>
+    <string name="reset">إعادة</string>
+    <string name="search">بحث</string>
+    <string name="from">من</string>
+    <string name="amount">القيمة</string>
+    <string name="card">رقم البطاقة</string>
+    <string name="account">رقم الحساب</string>
+    <string name="currency">العملة</string>
+    <string name="view_message">عرض الرسالة</string>
+    <string name="delete">حذف</string>
+    <string name="message">الرسالة</string>
+    <string name="date">التاريخ</string>
+    <string name="template_count">عدد النماذج</string>
+    <string name="SmsSender">الجهة المرسلة</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="remove">إزالة</string>
+    <string name="add_field">أضف خانة بيانات</string>
+    <string name="pick_sms">إختار رسالة SMS</string>
+    <string name="import_sms">إستيراد رسالة</string>
+    <string name="import_sms_info">جلب البيانات من رسالة موجودة أو إنشاء رسالة جديدة</string>
+    <string name="new_a">رسالة جديدة</string>
+    <string name="import_a">إستيراد</string>
+
+    <string-array name="TemplateFieldTypes">
+        <item>نص ثابت</item>
+        <item>القيمة</item>
+        <item>العملة</item>
+        <item>رقم البطاقة</item>
+        <item>رقم الحساب</item>
+        <item>من</item>
+        <item>التاريخ</item>
+        <item>الرصيد الحالي</item>
+        <item>بيانات أخرى</item>
+    </string-array>
+
+
+</resources>
